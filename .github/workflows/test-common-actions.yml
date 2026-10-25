@@ -26,3 +26,4 @@ jobs:
       app-name: vectorcraft
       require-craft-fonts: true
       craft-fonts-ref: a71c20e30af613287c504f7e685ca8fad77752bc
+      per-case-trace: true
